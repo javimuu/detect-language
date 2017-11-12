@@ -1,0 +1,19 @@
+body{
+    min-width: 300px;
+    min-height: 150;
+}
+
+.container {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.ex__name {
+    color: #e03ed8
+}
+
+.box {
+    padding: 15px;
+}
