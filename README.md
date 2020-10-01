@@ -7,3 +7,5 @@
 <br>
 
 Select a language and find all string occurred in webpage
+Built on JavaScript
+Open Source
