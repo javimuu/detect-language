@@ -1,7 +1,8 @@
-'use strict';
+'use strict'
 
-function abc () {
-    console.log(55555);
-    var w = window.open('https://google.com');
-    console.log(window);
-};
+function detect(){
+    var str = prompt("Enter a string with a specified language: ");
+    var txt=document.getElementById('selectId').innerHTML;
+    var n = str.search(text);
+    console.log(n);
+}
