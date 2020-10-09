@@ -9,10 +9,10 @@ window.onload = function() {
     link.rel = "stylesheet";
     (document.head||document.documentElement).appendChild(link);
 
-    var s = document.createElement('script');
-    s.src = chrome.extension.getURL('scripts/detect.js');
-    (document.head||document.documentElement).appendChild(s);
-    s.onload = function() {
-        //s.parentNode.removeChild(s);
+    var script = document.createElement('script');
+    script.src = chrome.extension.getURL('scripts/detect.js');
+    (document.head||document.documentElement).appendChild(script);
+    script.onload = function() {
+        //script.parentNode.removeChild(script);
     };
 };
