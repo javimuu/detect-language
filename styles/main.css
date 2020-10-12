@@ -14,3 +14,12 @@ body{
 .box {
     padding: 15px;
 }
+
+#findId{
+    border-radius: 5px;
+    width: 60px;
+    height: 40px;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
