@@ -1,2 +1,4 @@
 # detect-language
-Select a language and find all string occurred in webpage
+1.Open popup.html file
+2.Select Languages 
+3.Count All The Strings... 
